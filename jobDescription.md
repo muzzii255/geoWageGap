@@ -52,7 +52,7 @@ In short, I divide profile data to personal info, experience, task info and task
 	- education (institution name, program name, start & end years)
 	
 	- intermediary affiliation (name, hours, job success rate
-	![personal_info_example](C:\Users\ruizu\mydoc\gig economy\图\personal_info_example.png)
+	![personal_info_example](https://github.com/ruizuo11/geoWageGap/blob/main/personal_info_example.png?raw=true)
 
 2. Experience (Figure 2):
 
@@ -77,7 +77,7 @@ In short, I divide profile data to personal info, experience, task info and task
 	- task description (output n/a if private task)
 	
 
-![task_info1_example](C:\Users\ruizu\mydoc\gig economy\图\task_info1_example.png)
+![task_info1_example](https://github.com/ruizuo11/geoWageGap/blob/main/task_info1_example.png?raw=true)
 	
 4. Task info labeled in Figure 4 is **optional**
 	
@@ -88,7 +88,7 @@ In short, I divide profile data to personal info, experience, task info and task
 	- client's location, total spending & experience (output n/a if private task)
 	
 
-![task_info2_example](C:\Users\ruizu\mydoc\gig economy\图\task_info2_example.png)
+![task_info2_example](https://github.com/ruizuo11/geoWageGap/blob/main/task_info2_example.png?raw=true)
 	
 
 
