@@ -18,6 +18,7 @@ You need to be familiar with some anti-scraping techniques because Upwork encode
 ## Profile Link:
 - name of worker
 - link to profile page
+
 ![search_result_example](https://github.com/ruizuo11/geoWageGap/blob/main/search_result_example.png?raw=true)
 
 ## Profile Data:
@@ -55,7 +56,8 @@ In short, I divide profile data to personal info, experience, task info and task
 	
 	- education (institution name, program name, start & end years)
 	
-	- intermediary affiliation (name, hours, job success rate
+	- intermediary affiliation (name, hours, job success rate)
+
 ![personal_info_example](https://github.com/ruizuo11/geoWageGap/blob/main/personal_info_example.png?raw=true)
 
 2. Experience (Figure 2):
