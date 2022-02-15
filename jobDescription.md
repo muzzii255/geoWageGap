@@ -19,7 +19,7 @@ You need to be familiar with some anti-scraping techniques because Upwork encode
 - name of worker
 - link to profile page
 
-![search_result_example](https://github.com/ruizuo11/geoWageGap/blob/main/search_result_example.png?raw=true)
+![search_result_example](https://github.com/ruizuo11/geoWageGap/blob/main/figures/search_result_example.png?raw=true)
 
 ## Profile Data:
 
@@ -58,7 +58,7 @@ In short, I divide profile data to personal info, experience, task info and task
 	
 	- intermediary affiliation (name, hours, job success rate)
 
-![personal_info_example](https://github.com/ruizuo11/geoWageGap/blob/main/personal_info_example.png?raw=true)
+![personal_info_example](https://github.com/ruizuo11/geoWageGap/blob/main/figures/personal_info_example.png?raw=true)
 
 2. Experience (Figure 2):
 
@@ -67,7 +67,7 @@ In short, I divide profile data to personal info, experience, task info and task
   - certificate tags
 
   - employer name, start & end time of employment
-![experience_example](https://github.com/ruizuo11/geoWageGap/blob/main/experience_example.png?raw=true) 
+![experience_example](https://github.com/ruizuo11/geoWageGap/blob/main/figures/experience_example.png?raw=true) 
 
 3. Task info (right banner as labeled in Figure 3):
 	- no. completed jobs, no. processing jobs
@@ -83,7 +83,7 @@ In short, I divide profile data to personal info, experience, task info and task
 	- task description (output n/a if private task)
 	
 
-![task_info1_example](https://github.com/ruizuo11/geoWageGap/blob/main/task_info1_example.png?raw=true)
+![task_info1_example](https://github.com/ruizuo11/geoWageGap/blob/main/figures/task_info1_example.png?raw=true)
 	
 4. Task info labeled in Figure 4 is **optional**
 	
@@ -94,7 +94,7 @@ In short, I divide profile data to personal info, experience, task info and task
 	- client's location, total spending & experience (output n/a if private task)
 	
 
-![task_info2_example](https://github.com/ruizuo11/geoWageGap/blob/main/task_info2_example.png?raw=true)
+![task_info2_example](https://github.com/ruizuo11/geoWageGap/blob/main/figures/task_info2_example.png?raw=true)
 	
 
 
