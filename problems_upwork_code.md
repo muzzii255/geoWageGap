@@ -3,8 +3,15 @@
 ### Some meta-questions
 
 - How do you debug without getting flagged by the website? I tried to debug the url scrapper, but then UpWork warned my account for frequent login. 
+Ans: i use chrome profiles which i added in the code line 41 and 42, just paste username of your device on line 41 and pause the script when it login to the account
+    after that save credentials and press remember me for next time. in this way when you run the scraper again the account will be logged in automatically
+  chrome profile saves the login,cookies
+  
 - How do you view the structure of the true (decoded) Javascript code that contains the worker info?
+Ans: i use builtin json parser of vscode to read raw data, i am specialized in json so its easy for me to read raw data 
+
 - Does rotating IP on server makes the account vulnerable because of changing IP address? 
+Ans: no rotating ip doesnt makes the account vulnerable because mostly users use vpns and all websites allow connecting via vpn so its not an issue
 
 ### primary change, "recent task section":
 
